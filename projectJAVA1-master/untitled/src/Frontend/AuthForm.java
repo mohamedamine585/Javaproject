@@ -71,7 +71,5 @@ public class AuthForm extends JFrame {
         }
     }
 
-    public static void main(String[] args) {
-        new AuthForm();
-    }
+
 }
